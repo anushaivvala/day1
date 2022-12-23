@@ -1,0 +1,16 @@
+QUESTION:WRITE A BLOG ON OBJECTS AND ITS INTERNAL REPRESENTATION
+ANSWER:                   
+                                  OBJECTS AND ITS INTERNAL REPRESENTATION
+OBJECTS IS A COLLECTION OF A PROPERTIES AND A PROPERTY IS AN ASSOSIATION BETWEEN NAME AND A VALUE.
+THESE KEYS CAN BE VARIABLE AND FUNCTION AND ARE CALLED PROPERTIES AND METHODS
+The process of encoding object information in visual cortex for purposes of object identification, discrimination, evaluation, and memory storage.
+The syntax of creating object directly is given below:
+  VAR objectname=new object();
+Here new keyword is used to create object.
+“A JavaScript object is a collection of named values having state and behavior (properties and method)”.
+FOR EXAMPLE: PERSON, CAR
+EXPLANATION:PERSON:A PERSON HAS DIFFERENT SIZE, SHAPE,COLOR,..ETC
+HERE PERSON IS A OBJECT AND ITS INTERNAL REPRESENTATION ARE HEIGHT,WEIGHT,COLOR ETC
+LIKE IN CAR ALSO SAME LIKE MODEL,COLOR,FEATURES,ETC
+HERE CAR IS A OBJECT AND REST WILL COME UNDER INTERNAL REPRESENTATION
+
